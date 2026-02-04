@@ -1,9 +1,9 @@
 [project]
 name = "quantbit_foundry_analysis"
 authors = [
-    { name = "ss", email = "ss@gmail.com"}
+    { name = "Quantbit", email = "quantbit@erpdata"}
 ]
-description = "ss"
+description = "Quantbit Foundry Analysis"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

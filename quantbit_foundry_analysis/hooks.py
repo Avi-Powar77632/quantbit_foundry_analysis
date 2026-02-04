@@ -1,8 +1,8 @@
 app_name = "quantbit_foundry_analysis"
-app_title = "ss"
-app_publisher = "ss"
-app_description = "ss"
-app_email = "ss@gmail.com"
+app_title = "Quantbit Foundry Analysis"
+app_publisher = "Quantbit"
+app_description = "Quantbit Foundry Analysis"
+app_email = "quantbit@erpdata"
 app_license = "mit"
 
 # Apps
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "quantbit_foundry_analysis",
 # 		"logo": "/assets/quantbit_foundry_analysis/logo.png",
-# 		"title": "ss",
+# 		"title": "Quantbit Foundry Analysis",
 # 		"route": "/quantbit_foundry_analysis",
 # 		"has_permission": "quantbit_foundry_analysis.api.permission.has_app_permission"
 # 	}
