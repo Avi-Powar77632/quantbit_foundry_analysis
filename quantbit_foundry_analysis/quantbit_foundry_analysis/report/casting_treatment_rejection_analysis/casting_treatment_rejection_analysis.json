@@ -1,0 +1,38 @@
+{
+ "add_total_row": 0,
+ "add_translate_data": 0,
+ "columns": [],
+ "creation": "2026-02-04 14:37:50.970521",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 1,
+ "is_standard": "Yes",
+ "letter_head": null,
+ "modified": "2026-02-05 10:16:38.845515",
+ "modified_by": "Administrator",
+ "module": "Quantbit Foundry Analysis",
+ "name": "Casting Treatment Rejection Analysis",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "query": "SELECT\n    ctrrd.casting_treatment_rejection_reason\n        AS \"Rejection Reason:Link/Casting Treatment Rejection Reason Master:300\",\n\n    SUM(ctrrd.quantity)\n        AS \"Total Rejected Quantity:Float:180\"\n\nFROM `tabCasting Treatment Rejected Reasons Details` ctrrd\nJOIN `tabCasting Treatment` ct\n    ON ctrrd.parent = ct.name\n\nWHERE ct.docstatus = 1\n\nGROUP BY ctrrd.casting_treatment_rejection_reason\nORDER BY SUM(ctrrd.quantity) DESC;\n",
+ "ref_doctype": "Casting Treatment",
+ "report_name": "Casting Treatment Rejection Analysis",
+ "report_type": "Query Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Planning Incharge"
+  },
+  {
+   "role": "Quality Head"
+  },
+  {
+   "role": "Foundry Head"
+  }
+ ],
+ "timeout": 0
+}
