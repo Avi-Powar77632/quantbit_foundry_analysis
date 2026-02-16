@@ -65,29 +65,8 @@ app_license = "mit"
 # }
 
 fixtures = [
-    {
-        "dt": "Insights Workbook",
-        "filters": [
-            ["name", "=", "Foundry And Machine Shop Analysis"]
-        ]
-    },
-    {
-        "dt": "Insights Dashboard",
-        "filters": [
-            ["name", "=", "Foundry And Machine Shop Analysis"]
-        ]
-    },
-    {
-        "dt": "Insights Chart"
-    },
-    {
-        "dt": "Insights Query"
-    },
-    {
-        "dt": "Insights Data Source"
-    },
-    
-
+    {"dt": "Insights Workbook"},
+    {"dt": "Insights Data Source"}
 ]
 
 # Generators

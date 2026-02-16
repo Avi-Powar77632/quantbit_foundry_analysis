@@ -1,0 +1,41 @@
+[
+ {
+  "charts": "[\n {\n  \"chart_type\": \"Bar\",\n  \"folder\": null,\n  \"name\": \"aq50dpj2a1\",\n  \"query\": \"91ntn9faln\",\n  \"sort_order\": 0,\n  \"title\": \"Downstrem Process Analysis\"\n },\n {\n  \"chart_type\": \"Bar\",\n  \"folder\": null,\n  \"name\": \"d1dmq8h57s\",\n  \"query\": \"j7mp98it65\",\n  \"sort_order\": 1,\n  \"title\": \"Part Wise Machine  Details\"\n },\n {\n  \"chart_type\": \"Bar\",\n  \"folder\": null,\n  \"name\": \"plf5rpfv2j\",\n  \"query\": \"j7mp98it65\",\n  \"sort_order\": 2,\n  \"title\": \"Part Wise Machining Cost Details\"\n },\n {\n  \"chart_type\": \"Row\",\n  \"folder\": null,\n  \"name\": \"r3vjfj65b9\",\n  \"query\": \"jen4usftof\",\n  \"sort_order\": 3,\n  \"title\": \"Machine Wise Downstram Details\"\n }\n]",
+  "dashboards": "[\n {\n  \"name\": \"udbkjro7ek\",\n  \"title\": \"Dashboard 1\"\n }\n]",
+  "data_backup": null,
+  "docstatus": 0,
+  "doctype": "Insights Workbook",
+  "folders": "[]",
+  "modified": "2026-02-14 17:34:43.992311",
+  "name": 3,
+  "queries": "[\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"91ntn9faln\",\n  \"sort_order\": 0,\n  \"title\": \"tabMachineShop Processflow\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"9so8ao2m63\",\n  \"sort_order\": 1,\n  \"title\": \"tabMachineShop Downstream Process Details\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"h1kf6as4h1\",\n  \"sort_order\": 2,\n  \"title\": \"tabMachining\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"j7mp98it65\",\n  \"sort_order\": 3,\n  \"title\": \"tabMachining Operation Details\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"jen4usftof\",\n  \"sort_order\": 4,\n  \"title\": \"tabMachining Downtime Reasons Details\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"s43vgbtes2\",\n  \"sort_order\": 5,\n  \"title\": \"Query 6\"\n }\n]",
+  "read_only": false,
+  "title": "Workbook 3"
+ },
+ {
+  "charts": "[\n {\n  \"chart_type\": \"Bar\",\n  \"folder\": null,\n  \"name\": \"fi7fcvhjcr\",\n  \"query\": \"fi7vsec8up\",\n  \"sort_order\": 0,\n  \"title\": \"Downstrem Process Analysis\"\n },\n {\n  \"chart_type\": \"Table\",\n  \"folder\": null,\n  \"name\": \"fi75tg4jnt\",\n  \"query\": \"fi7150gab5\",\n  \"sort_order\": 1,\n  \"title\": \"Part Wise Machine  Details\"\n },\n {\n  \"chart_type\": \"Bar\",\n  \"folder\": null,\n  \"name\": \"fi798dss95\",\n  \"query\": \"fi7150gab5\",\n  \"sort_order\": 2,\n  \"title\": \"Part Wise Machining Cost Details\"\n },\n {\n  \"chart_type\": \"Row\",\n  \"folder\": null,\n  \"name\": \"fi70gvo7c3\",\n  \"query\": \"fi7j5nr216\",\n  \"sort_order\": 3,\n  \"title\": \"Machine Wise Downstram Details\"\n }\n]",
+  "dashboards": "[\n {\n  \"name\": \"fi7gflpd2q\",\n  \"title\": \"Dashboard 1\"\n }\n]",
+  "data_backup": null,
+  "docstatus": 0,
+  "doctype": "Insights Workbook",
+  "folders": "[]",
+  "modified": "2026-02-14 17:13:15.958267",
+  "name": 4,
+  "queries": "[\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"fi7vsec8up\",\n  \"sort_order\": 0,\n  \"title\": \"tabMachineShop Processflow\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"fi7qj468bj\",\n  \"sort_order\": 1,\n  \"title\": \"tabMachineShop Downstream Process Details\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"fi7lcq1fro\",\n  \"sort_order\": 2,\n  \"title\": \"tabMachining\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"fi7150gab5\",\n  \"sort_order\": 3,\n  \"title\": \"tabMachining Operation Details\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"fi7j5nr216\",\n  \"sort_order\": 4,\n  \"title\": \"tabMachining Downtime Reasons Details\"\n }\n]",
+  "read_only": false,
+  "title": "Workbook 4"
+ },
+ {
+  "charts": "[\n {\n  \"chart_type\": \"Row\",\n  \"folder\": null,\n  \"name\": \"v5vjo5iqpi\",\n  \"query\": \"pmclohogn0\",\n  \"sort_order\": 0,\n  \"title\": \"Item Wise Sales(INR)\"\n },\n {\n  \"chart_type\": \"Line\",\n  \"folder\": null,\n  \"name\": \"0tpl56i4u1\",\n  \"query\": \"pav23ua7k7\",\n  \"sort_order\": 1,\n  \"title\": \"Sales Order Trends\"\n },\n {\n  \"chart_type\": \"Map\",\n  \"folder\": null,\n  \"name\": \"1tn2cafo9k\",\n  \"query\": \"pmclohogn0\",\n  \"sort_order\": 2,\n  \"title\": \"Teritary  Wise Sale\"\n },\n {\n  \"chart_type\": \"Bar\",\n  \"folder\": null,\n  \"name\": \"3gg7atsmf5\",\n  \"query\": \"pmclohogn0\",\n  \"sort_order\": 3,\n  \"title\": \"Customer Wise\"\n },\n {\n  \"chart_type\": \"Row\",\n  \"folder\": null,\n  \"name\": \"4ldtqukn5n\",\n  \"query\": \"q4870k8992\",\n  \"sort_order\": 4,\n  \"title\": \"Partwise Sales Tonnage (KG)\"\n },\n {\n  \"chart_type\": \"Number\",\n  \"folder\": null,\n  \"name\": \"5lstpc1trn\",\n  \"query\": \"pmclohogn0\",\n  \"sort_order\": 5,\n  \"title\": \"Current Month Sales Tonnage\"\n },\n {\n  \"chart_type\": \"Number\",\n  \"folder\": null,\n  \"name\": \"6r2hctuvpv\",\n  \"query\": \"pav23ua7k7\",\n  \"sort_order\": 6,\n  \"title\": \"Current Month Sales Invoice Tonnage\"\n },\n {\n  \"chart_type\": \"Number\",\n  \"folder\": null,\n  \"name\": \"7h32eq9q6p\",\n  \"query\": \"pav23ua7k7\",\n  \"sort_order\": 7,\n  \"title\": \"Today's Sales Order\"\n },\n {\n  \"chart_type\": \"Number\",\n  \"folder\": null,\n  \"name\": \"mq4fr47t48\",\n  \"query\": \"pmclohogn0\",\n  \"sort_order\": 8,\n  \"title\": \"Total Sales Value\"\n },\n {\n  \"chart_type\": \"Number\",\n  \"folder\": null,\n  \"name\": \"q8iooad8ml\",\n  \"query\": \"pav23ua7k7\",\n  \"sort_order\": 9,\n  \"title\": \"Total Order Value\"\n },\n {\n  \"chart_type\": \"Number\",\n  \"folder\": null,\n  \"name\": \"t2ggag0c87\",\n  \"query\": \"pmclohogn0\",\n  \"sort_order\": 10,\n  \"title\": \"Invoice Total Amount(INR)\"\n },\n {\n  \"chart_type\": \"Donut\",\n  \"folder\": null,\n  \"name\": \"67c9u42gt4\",\n  \"query\": \"q4870k8992\",\n  \"sort_order\": 11,\n  \"title\": \"Item wise tanage sales (KG)\"\n },\n {\n  \"chart_type\": \"Donut\",\n  \"folder\": null,\n  \"name\": \"ft8pu18tfi\",\n  \"query\": \"q4870k8992\",\n  \"sort_order\": 12,\n  \"title\": \"Item group wise tanage sales (KG)\"\n }\n]",
+  "dashboards": "[\n {\n  \"name\": \"b1npnitegj\",\n  \"title\": \"Sales Analysis\"\n }\n]",
+  "data_backup": null,
+  "docstatus": 0,
+  "doctype": "Insights Workbook",
+  "folders": "[]",
+  "modified": "2026-02-16 11:08:27.461118",
+  "name": 8,
+  "queries": "[\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"pav23ua7k7\",\n  \"sort_order\": 0,\n  \"title\": \"tabSales Order\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"pmclohogn0\",\n  \"sort_order\": 1,\n  \"title\": \"tabSales Invoice\"\n },\n {\n  \"folder\": null,\n  \"is_builder_query\": 1,\n  \"is_native_query\": 0,\n  \"is_script_query\": 0,\n  \"name\": \"q4870k8992\",\n  \"sort_order\": 2,\n  \"title\": \"tabSales Invoice Item\"\n }\n]",
+  "read_only": false,
+  "title": "Sales Analysis"
+ }
+]
